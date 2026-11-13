@@ -6,3 +6,8 @@
 | Miękisz | 3 |
 | Smak | 4 |
 | Wygląd | 4 |
+
+
+## Wnioski
+
+Miękisz był zbyt zbity. W kolejnej partii należy zwiększyć nawodnienie ciasta.
