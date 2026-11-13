@@ -12,3 +12,8 @@
 2. Dodaj zakwas i sól, wyrabiaj ciasto 10 minut.
 3. Zostaw do wyrastania na ok. 12 godzin.
 4. Uformuj bochenek i odstaw na 1 godzinę.
+
+
+## Pieczenie
+- Temperatura: 230°C
+- Czas: 40 minut (pierwsze 20 minut pod przykryciem)
